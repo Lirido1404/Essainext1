@@ -3,7 +3,9 @@ import React from 'react'
 function page() {
   return (
     <div>
-        <h1>HomePage</h1>
+        <h1>
+            You cannot view this in the browser
+        </h1>
     </div>
   )
 }
